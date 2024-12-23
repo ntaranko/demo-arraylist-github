@@ -11,5 +11,7 @@ public class Main {
         cities.add("New York");
         cities.add("Ghomel");
         System.out.println(cities);
+
+        cities.set(3, "Vitebsk");
     }
 }
